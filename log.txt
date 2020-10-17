@@ -1,0 +1,12 @@
+Input:USD
+Output:True
+Input:PKR
+Output:True
+Input:USD
+Output:True
+Input:EUR
+Output:True
+Input:USD
+Output:True
+Input:USD
+Output:True
